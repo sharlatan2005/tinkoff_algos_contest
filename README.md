@@ -1,1 +1,1 @@
-# tinkoff_algos_contest
+# Tinkoff algorithms course 2024
